@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 01 Nov 2024 16:16:46 at http://localhost/jurnal%20afisena/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://localhost/jurnal%20afisena/ -O1 "D:\Web Development\HTtrack(eksport from wordpress)\jurnal afisena" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:19:55	Warning: 	Retry after error -4 (Incorrect length (843944 Bytes, 3337603 expected)) at link localhost/jurnal afisena/wp-content/uploads/2024/10/Tesis-Besar-Crypto-P.png (from localhost/jurnal afisena/)
+16:19:55	Error: 	"Method Not Allowed" (405) at link localhost/jurnal afisena/xmlrpc.php (from localhost/jurnal afisena/?p=38)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 1 seconds : 87 links scanned, 84 files written (7856341 bytes overall) [7897609 bytes received at 26237 bytes/sec], 3.1 requests per connection
+(1 errors, 1 warnings, 0 messages)
